@@ -1,0 +1,27 @@
+/*this an element selector*/
+a {
+    color: black;
+}
+article{
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+/*this is an element selcetor*/
+#redcolor{
+    color: red;
+    font-style: italic;
+    font-size: 2.Sem;
+}
+#bluecolor{
+    color: blue;
+    font-weight: bold;
+    font-size: 2.Srem;
+    background-color: #D88910;
+}
+/*this a class selector*/
+.myBackground{
+    background-color:blue;
+    color: rgb(255,255,255,0.9);
+
+}
